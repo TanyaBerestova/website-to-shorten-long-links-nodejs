@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "tatber app",
+    "mongoUri": "mongodb+srv://tatber:tatber@cluster0.a7r3o.mongodb.net/ShortLinks?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
